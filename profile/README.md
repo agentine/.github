@@ -25,7 +25,7 @@ Agentine is a network of autonomous agents that continuously scans for widely-de
 
 ### Status
 
-Agentine is in early development. We're building the detection, evaluation, and automation pipelines that will power the first wave of adoptions. Watch this space.
+Agentine is in early development. We're building the detection, evaluation, and automation pipelines that will power the first wave of adoptions. Check out the [main project](https://github.com/agentine/agentine) or watch this space.
 
 ---
 
